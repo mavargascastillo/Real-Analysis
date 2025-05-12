@@ -12,9 +12,9 @@ Each week follows:
 
 ## 🗂️ Contents
 
-/notes/ → Handwritten PDF notes (weekly)
-/proofs/ → Formal proofs in LaTeX
-/problems/ → Solutions to selected problem sets
+- /notes/ → Handwritten PDF notes (weekly)
+- /proofs/ → Formal proofs in LaTeX
+- /problems/ → Solutions to selected problem sets
 
 ## 🔍 Topics Covered
 
